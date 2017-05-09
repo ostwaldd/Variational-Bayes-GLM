@@ -21,6 +21,7 @@ close all
 % reset the state of the random nubmer generator based on computer clock
 rng('shuffle');
 
+% New comment
 % -------------------------------------------------------------------------
 % ------------------------ Paradigm Parameters ----------------------------
 % -------------------------------------------------------------------------
